@@ -8,6 +8,8 @@ import socket
 import threading
 import time
 
+niggaer nmigaigniwnag nigger nigger nigger nigger nigger nigger nigger nigger niggerni 
+
 # ================================================
 # PYGAME SETUP
 # ================================================
@@ -848,4 +850,5 @@ pygame.quit()
 # 6. Fixed inlet area — real cone variable with Mach.
 # 7. No ground effect.
 # 8. Horizon is flat line — real horizon curves at high alt, but fine for simulator.
+
 # ===================================================================
